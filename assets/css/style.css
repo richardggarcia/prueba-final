@@ -1,0 +1,24 @@
+body {
+    background-color: #ffffff;
+    color: #333;
+}
+
+h2 {
+    color: #fda50d;
+    border-left: 5px solid #fda50d;
+    padding-left: 15px;
+}
+
+.naranja {
+    color: #fda50d;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
